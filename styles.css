@@ -1,0 +1,26 @@
+#body-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
+
+#buttons{
+  display: flex;
+}
+
+#container{
+  display: flex;
+  gap: 0px;
+  flex-wrap: wrap;
+  width: 608px;
+  height: 608px;
+}
+
+
+/* you can use this code instead of javascript
+ :hover#sqrdiv{
+  background-color: blue;
+
+} */
